@@ -5,3 +5,9 @@
 /gh-pages/*
 /screenshots/*
 /*.png
+.idea/*
+*.iml
+.gradle/*
+/build/*
+/gradle/*
+local.properties
