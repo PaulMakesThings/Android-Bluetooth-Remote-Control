@@ -1,6 +1,5 @@
 .DS_Store
 /*.png
-/app/*
 /*.mov
 /gh-pages/*
 /screenshots/*
@@ -8,6 +7,6 @@
 .idea/*
 *.iml
 .gradle/*
-/build/*
+*/build/*
 /gradle/*
 local.properties
